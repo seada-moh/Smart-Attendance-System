@@ -10,15 +10,6 @@ A full-stack MERN web app that identifies employees by their face and records ch
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Status](https://img.shields.io/badge/status-demo-blue)
 
-## Screenshots
-
-| Login | Employee Registration |
-|---|---|
-| ![Login](docs/screenshots/login.png) | ![Employee Registration](docs/screenshots/register-employee.png) |
-
-| Face Scanner | Dashboard |
-|---|---|
-| ![Face Scanner](docs/screenshots/face-scanner.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
 ## Features
 
